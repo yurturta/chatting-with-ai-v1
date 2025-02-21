@@ -11,3 +11,4 @@ For further details, see [NOTES](NOTES.md).
 [The Local LLM Crash Course - Build Your Own GPT in 2 hours](https://www.udemy.com/course/the-local-llm-crash-course-build-a-hugging-face-ai-chatbot/?referralCode=EAD6017AA0001257DD9A)
 
 # Simple AI Chat App
+# And more ...
